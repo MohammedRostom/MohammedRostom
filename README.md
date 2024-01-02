@@ -2,13 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Mohammed Ali </h1>
 <h2 align="center"> Junior Flutter developer </h2>
-<h3 align="left">Connect with me:</h3>
+ <br>
 
 ## 🚀 About Me:
 🏢 I'm a Junior Flutter Developer<br>
 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.<br>
 💬 Ask me about my experience with Flutter,Web Scraping ,Some knowledge in web development , and <b>ui/ux designer</b> <br>
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhmed-rustom-824920261) [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mhamdrustom) [![FaceBook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/100011987585933)
