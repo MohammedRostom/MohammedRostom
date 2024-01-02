@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohammed Ali Flutter developer</h1>
-<h3 align="center">Flutter developer Flutter developerFlutter developerFlutter developerFlutter developerFlutter developerFlutter developerFlutter developerFlutter developerFlutter developerFlutter developerFlutter developer</h3>
-
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+<h1 align="center">Hi 👋, I'm Mohammed Ali </h1>
+<h2 align="center"> Junior Flutter developer </h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mhmed-rustom-824920261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhmed-rustom-824920261/" height="30" width="40" /></a>
