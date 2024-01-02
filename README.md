@@ -4,7 +4,7 @@
 <h2 align="center"> Junior Flutter developer </h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mhmed-rustom-824920261/" target="blank"><img align="center" src="https://www.shutterstock.com/image-vector/vector-image-linkedin-icon-social-260nw-2331501497.jpg" alt="mhmed-rustom-824920261/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mhmed-rustom-824920261/" target="blank"><img align="center" src="https://www.shutterstock.com/image-vector/vector-image-linkedin-icon-social-260nw-2331501497.jpg" alt="mhmed-rustom-824920261/" height="60" width="120" /></a>
 <a href="https://fb.com/100011987585933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011987585933" height="30" width="40" /></a>
 <a href="https://api.whatsapp.com/qr/YHEUJE6FI5P5E1?autoload=1&app_absent=0" target="blank"><img align="center" src="https://i.pinimg.com/564x/e6/85/55/e685555d3879dd2407d668086ee7208a.jpg" alt="WhatsApp" height="30" width="40" /></a>
 </p>
