@@ -5,9 +5,9 @@
  <br>
 
 ## 🚀 About Me:
-🏢 I'm a Junior Flutter Developer<br>
+🏢 I'm a Junior Flutter Developer and <b>ui/ux designer</b><br>
 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.<br>
-💬 Ask me about my experience with Flutter,Web Scraping ,Some knowledge in web development , and <b>ui/ux designer</b> <br>
+💬 Ask me about my experience with Flutter,Web Scraping ,Some knowledge in web development , and <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
