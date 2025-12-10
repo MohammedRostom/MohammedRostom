@@ -5,14 +5,14 @@
  <br>
 
 ## 🚀 About Me:
-I’m a Flutter Developer focused on building fast, scalable, and clean mobile applications.
+I’m a Flutter Developer focused on building fast, scalable, and clean mobile applications.<br>
 
-🧩 Clean Architecture (Domain – Data – Presentation)
-🔥 Strong Skills: Firebase, REST APIs, Authentication
-🧠 State Management: Bloc, Cubit
-🎨 UI/UX as a supportive skill (Wireframes → High-Fidelity)
-🌍 Experience in debugging, optimization & app structure
-💬 Ask me about Flutter, Firebase, API Layering & State Flow
+🧩 Clean Architecture (Domain – Data – Presentation)<br>
+🔥 Strong Skills: Firebase, REST APIs, Authentication<br>
+🧠 State Management: Bloc, Cubit<br>
+🎨 UI/UX as a supportive skill (Wireframes → High-Fidelity)<br>
+🌍 Experience in debugging, optimization & app structure<br>
+💬 Ask me about Flutter, Firebase, API Layering & State Flow<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
