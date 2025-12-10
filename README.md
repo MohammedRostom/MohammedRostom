@@ -1,82 +1,41 @@
-<img src="https://github.com/MohammedRostom/MohammedRostom/blob/main/photo.png" width="100%" />
+<img src="https://github.com/MohammedRostom/MohammedRostom/blob/main/photo.png" alt="flutter" width="100%" height="100%"/>
 
-<h1 align="center">Hi 👋, I'm Mohammed Ali</h1>
-<h2 align="center">🚀 Junior Flutter Developer</h2>
-<p align="center">
-   <em>UI/UX Designer (Supportive Skill)</em>
+<h1 align="center">Hi 👋, I'm Mohammed Ali </h1>
+<h2 align="center"> Junior Flutter developer </h2>
+ <br>
+
+## 🚀 About Me:
+I’m a Flutter Developer focused on building fast, scalable, and clean mobile applications.
+
+🧩 Clean Architecture (Domain – Data – Presentation)
+🔥 Strong Skills: Firebase, REST APIs, Authentication
+🧠 State Management: Bloc, Cubit
+🎨 UI/UX as a supportive skill (Wireframes → High-Fidelity)
+🌍 Experience in debugging, optimization & app structure
+💬 Ask me about Flutter, Firebase, API Layering & State Flow
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhmed-rustom-824920261) [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mhamdrustom) [![FaceBook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/100011987585933)
+   
 </p>
+<h3 align="left">Skills Languages and Tools:</h3>
 
-<br>
-
-## ⭐ Tech Progress Overview
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-85%25-blue?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/Dart-88%25-0175C2?style=for-the-badge&logo=dart" />
-  <img src="https://img.shields.io/badge/Firebase-78%25-FFCA28?style=for-the-badge&logo=firebase" />
-  
-  <!-- UI/UX أقل Hierarchy -->
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-60%25-lightgrey?style=for-the-badge&logo=figma" />
-</p>
-
----
-
-## 🎨 Creative Progress Circles
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter--Progress-85%25-informational?logo=flutter&style=plastic" />
-  <img src="https://img.shields.io/badge/Dart--Progress-88%25-informational?logo=dart&style=plastic" />
-  <img src="https://img.shields.io/badge/Firebase--Progress-78%25-informational?logo=firebase&style=plastic" />
-</p>
-
-<p align="center">
-  <img src="https://progress-bar.dev/85/?title=Flutter&width=200&color=1e90ff" />
-  <img src="https://progress-bar.dev/88/?title=Dart&width=200&color=005bbb" />
-  <img src="https://progress-bar.dev/78/?title=Firebase&width=200&color=fcca28" />
-</p>
-
----
-
-## 🚀 About Me
-I’m a **Flutter Developer** focused on building fast, scalable, and clean mobile applications.
-
-- 🧩 Clean Architecture (Domain – Data – Presentation)
-- 🔥 Strong Skills: Firebase, REST APIs, Authentication
-- 🧠 State Management: Bloc, Cubit
-- 🎨 UI/UX as a supportive skill (Wireframes → High-Fidelity)
-- 🌍 Experience in debugging, optimization & app structure
-- 💬 Ask me about Flutter, Firebase, API Layering & State Flow
-
----
-
-## 🎯 Featured Flutter Skill Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-Mobile%20Apps-blue?style=flat-square&logo=flutter" />
-  <img src="https://img.shields.io/badge/Dart-OOP-0175C2?style=flat-square&logo=dart" />
-  <img src="https://img.shields.io/badge/Firebase-Auth-FFCA28?style=flat-square&logo=firebase" />
-  <img src="https://img.shields.io/badge/Bloc-State%20Management-02569B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-SOLID-4CAF50?style=flat-square" />
-
-  <!-- UI/UX أقل Hierarchy -->
-  <img src="https://img.shields.io/badge/Figma-UI%2FUX-cccccc?style=flat-square&logo=figma" />
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-   <img src="https://img.shields.io/badge/Bloc-Pattern-2965f1?style=for-the-badge" />
-   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white" />
-
-   <!-- UI/UX -->
-   <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedRostom&theme=tokyonight" />
-</p>
+<p align="left">
+   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+   
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
+                                                                                                  alt="illustrator" width="40" height="40"/> </a> 
+                                                                                                  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+                                                                                                  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </a> </p>
